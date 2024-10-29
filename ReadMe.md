@@ -1,7 +1,10 @@
-# ROS-plugin for Magic Leap AR Glasses - Demo video
+# ROS-plugin for Magic Leap AR Glasses - Demo
 
-https://github.com/user-attachments/assets/a4911a2d-4768-411f-97c5-ae38a1b81e20
+https://github.com/user-attachments/assets/d6d13468-9b5b-44f3-9f5d-e1dc3349dbfb
 
+
+
+---
 References and specific access to project repositories on request.
 
 Referenzen und spezifischer Zugang zu Projekt-Repositories auf Anfrage.
